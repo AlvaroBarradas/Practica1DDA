@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica1</string>
+    <string name="to_greet">Saludar</string>
+    <string name="your_name">Tu nombre:</string>
+    <string name="write_here">Escribe aqui</string>
+    <string name="you_should_write_your_name">Deberias escribir tu nombre</string>
+    <string name="welcome_message">Hola %s ! Bienvenido al curso de DDA</string>
+</resources>
